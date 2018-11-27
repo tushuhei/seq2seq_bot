@@ -35,9 +35,9 @@ body {
   }
 
   &__github-link {
-    position: fixed;
-    top: 27px;
+    position: absolute;
     right: 20px;
+    top: 27px;
 
     img {
       width: 50px;
